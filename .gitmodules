@@ -1,0 +1,9 @@
+[submodule "concurrent-ds"]
+	path = concurrent-ds
+	url = https://github.com/Rauf00/conccurent-ds.git
+[submodule "parallel-programming"]
+	path = parallel-programming
+	url = https://github.com/Rauf00/parallel-programming-2.git
+[submodule "distributed-programming-mpi"]
+	path = distributed-programming-mpi
+	url = https://github.com/Rauf00/distributed-programming-mpi-2.git
